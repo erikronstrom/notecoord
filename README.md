@@ -1,6 +1,6 @@
 # notecoord
 
-A data package containing the relative intervals bewteen notes in the Western music system.
+A data package containing the relative intervals between notes in the Western music system.
 The coordinates are in the format of an array: `[steps, semitones]` relative to C.
 
 Thus `c`'s coord is `[0, 0]`, while `d`'s is `[1, 2]` because going to the
